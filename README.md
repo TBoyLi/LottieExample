@@ -267,10 +267,13 @@ Required by:
                    > Remote host closed connection during handshake
                                > SSL peer shut down incorrectly
 ```
-个人觉得是要翻墙才可以下载:appcompat-v7:26.1.0，瞬间无奈中，望Android大神指教一哈。
+个人觉得是要翻墙才可以下载:appcompat-v7:26.1.0，瞬间无奈中，因为我mac没有翻墙。
+下午我用mac翻墙了一下，重启机子，重新打开android studio 重新编译项目，果真编译成功，然后运行，成功了！万分欣慰呀！
 
-OK！先不纠结Android的。后期再好好琢磨琢磨，好歹IOS能搞起来，先看看效果图
-![Lottie.gif](http://upload-images.jianshu.io/upload_images/1780580-be4f228858873b5a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+OK！解决Android的编译运行的问题，直接上IOS Android 效果图：
+![Lottie-IOS.gif](http://upload-images.jianshu.io/upload_images/1780580-be4f228858873b5a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![Lottie-Android.gif](http://upload-images.jianshu.io/upload_images/1780580-77ccb61e6e10b91f.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 最后项目地址（希望大家给star）有问题及时沟通：
 [https://github.com/TBoyLi/LottieExample.git](https://github.com/TBoyLi/LottieExample.git)
