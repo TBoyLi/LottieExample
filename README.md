@@ -272,7 +272,7 @@ Required by:
 OK！先不纠结Android的。后期再好好琢磨琢磨，好歹IOS能搞起来，先看看效果图
 ![Lottie.gif](http://upload-images.jianshu.io/upload_images/1780580-be4f228858873b5a.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-最后项目地址（希望大家给star）有问题及时沟通：
+
 [https://github.com/TBoyLi/LottieExample.git](https://github.com/TBoyLi/LottieExample.git)
 
 下载项目：
