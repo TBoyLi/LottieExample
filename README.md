@@ -292,8 +292,8 @@ Lottie官方最近版本（2.3.1）
 
 http://www.jianshu.com/u/9895046b765d 群主简书
 
-http://www.jianshu.com/u/dd3884d0b319 情书的简书
+https://github.com/SurpassRabbit  群主 GitHub 项目
 
-https://github.com/SurpassRabbit github
+http://www.jianshu.com/u/dd3884d0b319 情书的简书
 
 https://github.com/duheng/Mozi 墨子项目 逻辑结构清晰赞一波
