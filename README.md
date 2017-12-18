@@ -286,3 +286,4 @@ git clone https://github.com/TBoyLi/LottieExample.git
 Lottie官方最近版本（2.3.1）
 ![lottie-version.png](http://upload-images.jianshu.io/upload_images/1780580-ade1839821faefbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
   
+最后呢。感谢react-native兴趣群的群主老兔的大力支持，群号：397885169  欢迎加入，里面群管理都是大牛级别的（我除外），都有开源项目。我这小白群管表示压力杠杠滴，所以写了一个不称职的开源项目。希望大家喜欢，该项目主要针对Lottie的简单使用。
