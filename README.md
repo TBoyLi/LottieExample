@@ -1,7 +1,7 @@
 # LottieExample
 Lottie是Airbnb开源的一个支持 Android、iOS 以及 ReactNative，利用Json文件的方式快速实现动画效果的库。简单点说就是Json文件记录动画路径，Android、iOS 以及 ReactNative解析展现出来。
 
-Lottie项目地址：[https://github.com/airbnb/lottie-react-native](https://link.jianshu.com/?t=https://github.com/airbnb/lottie-android)
+官方Lottie项目地址：[https://github.com/airbnb/lottie-react-native](https://link.jianshu.com/?t=https://github.com/airbnb/lottie-android)
 
 Lottie如何使用？
 
